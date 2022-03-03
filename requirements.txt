@@ -109,7 +109,6 @@ python-lsp-server==1.2.4
 python-slugify
 pytz==2021.3
 pywin32-ctypes
-pywinpty==2.0.2
 PyYAML==6.0
 pyzmq
 QDarkStyle
